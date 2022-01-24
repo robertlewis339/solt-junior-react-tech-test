@@ -1,0 +1,4 @@
+.soldout {
+    filter: grayscale(100%);
+    opacity: 50%;
+  }
