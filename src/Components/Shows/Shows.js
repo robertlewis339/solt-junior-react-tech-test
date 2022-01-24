@@ -9,6 +9,8 @@ function Show() {
       .then(response => response.json())
       .then(json => {
 
+      // the code below is filtering the json deal date vs today's date and putting it into state. 
+
       //    const todaysShows = json.filter(({ show_onsale_info }) => {
       //      const today = new Date('2021-05-17 09:00:00+00:00');
       //      const dealDate = new Date(show_onsale_info.onsale_datetime);

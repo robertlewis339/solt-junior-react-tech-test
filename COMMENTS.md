@@ -10,4 +10,6 @@ Robert Lewis code test
 
 - I quite enjoyed this task there's some education value in it for me so I went over the specific time on figuring the API and props data. 
 
+- If I had more time I would create CSS variables for more reuseable code 
+
 
